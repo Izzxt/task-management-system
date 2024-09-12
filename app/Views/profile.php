@@ -1,9 +1,9 @@
 <div class="d-flex flex-column gap-4">
   <header class="bg-primary text-white text-center py-5 bg-gradient">
     <div class="container">
-      <h1>Sign Up</h1>
+      <h1>Profile</h1>
       <p class="lead">
-        it's quick and easy
+        Your profile information
       </p>
     </div>
   </header>

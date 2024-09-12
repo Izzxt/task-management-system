@@ -5,7 +5,7 @@
       <p class="lead">
         Your simple and effective way to manage your tasks efficienly.
       </p>
-      <a class="btn btn-light" href="<?= base_url() ?>login">Get Started</a>
+      <a class="btn btn-light" href="<?= base_url() ?>register">Get Started</a>
     </div>
   </header>
 
